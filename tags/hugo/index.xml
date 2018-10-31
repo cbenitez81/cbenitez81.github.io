@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on </title>
+    <link>https://cbenitez81.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Fabian Benitez-Quiroz</copyright>
+    <lastBuildDate>Wed, 26 Jul 2017 11:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/hugo/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paper accepted for ICCV 2017</title>
+      <link>https://cbenitez81.github.io/post/iccv2017/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:00 +0000</pubDate>
+      
+      <guid>https://cbenitez81.github.io/post/iccv2017/</guid>
+      <description>&lt;p&gt;Our group is glad of having our paper &amp;ldquo;Recognition of Action Units in the Wild with Deep Nets and a New Global-Local&amp;rdquo; accepted to be presented in ICCV 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
