@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content tagged as &#39;Academic&#39; on </title>
+    <title>academic on Academic</title>
     <link>https://cbenitez81.github.io/tags/academic/</link>
-    <description>Recent content in Content tagged as &#39;Academic&#39; on </description>
+    <description>Recent content in academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Fabian Benitez-Quiroz</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;2018 Fabian Benitez-Quiroz</copyright>
+    <lastBuildDate>Mon, 22 Oct 2018 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cbenitez81.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paper published in PAMI</title>
+      <link>https://cbenitez81.github.io/post/pami/</link>
+      <pubDate>Mon, 22 Oct 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://cbenitez81.github.io/post/pami/</guid>
+      <description>Exciting news for Ram, Aleix and I. We got years worth of work published in IEEE PAMI.</description>
+    </item>
+    
+    <item>
+      <title>New research published on PNAS</title>
+      <link>https://cbenitez81.github.io/post/pnas2018/</link>
+      <pubDate>Thu, 22 Mar 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://cbenitez81.github.io/post/pnas2018/</guid>
+      <description>We&amp;rsquo;re very happy of having our research on color as an efficient mechanism for facial expressions published in the Proceedings of the National Academy of Science.</description>
+    </item>
     
     <item>
       <title>Paper accepted for ICCV 2017</title>
@@ -16,8 +36,7 @@
       <pubDate>Wed, 26 Jul 2017 11:00:00 +0000</pubDate>
       
       <guid>https://cbenitez81.github.io/post/iccv2017/</guid>
-      <description>&lt;p&gt;Our group is glad of having our paper &amp;ldquo;Recognition of Action Units in the Wild with Deep Nets and a New Global-Local&amp;rdquo; accepted to be presented in ICCV 2017.&lt;/p&gt;
-</description>
+      <description>Our group is glad of having our paper &amp;ldquo;Recognition of Action Units in the Wild with Deep Nets and a New Global-Local&amp;rdquo; accepted to be presented in ICCV 2017.</description>
     </item>
     
   </channel>

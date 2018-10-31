@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>https://cbenitez81.github.io/post/pami/</loc>
+      <lastmod>2018-10-22T11:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://cbenitez81.github.io/publication/pamicolor/</loc>
+      <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://cbenitez81.github.io/post/pnas2018/</loc>
       <lastmod>2018-03-22T11:00:00+00:00</lastmod>
     </url>
@@ -150,8 +168,7 @@
     
     <url>
     
-      <loc>https://cbenitez81.github.io/tags/academic/</loc>
-      <lastmod>2018-03-22T11:00:00+00:00</lastmod>
+      <loc>https://cbenitez81.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,7 +177,27 @@
     
     <url>
     
-      <loc>https://cbenitez81.github.io/categories/</loc>
+      <loc>https://cbenitez81.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://cbenitez81.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://cbenitez81.github.io/tags/academic/</loc>
+      <lastmod>2018-10-22T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,7 +227,7 @@
     <url>
     
       <loc>https://cbenitez81.github.io/tags/hugo/</loc>
-      <lastmod>2018-03-22T11:00:00+00:00</lastmod>
+      <lastmod>2018-10-22T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -201,26 +238,6 @@
     
       <loc>https://cbenitez81.github.io/tags/not-science/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://cbenitez81.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://cbenitez81.github.io/tags/</loc>
-      <lastmod>2018-03-22T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

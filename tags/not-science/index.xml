@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Not Science on </title>
+    <title>not-science on Academic</title>
     <link>https://cbenitez81.github.io/tags/not-science/</link>
-    <description>Recent content in Not Science on </description>
+    <description>Recent content in not-science on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Fabian Benitez-Quiroz</copyright>
+    <copyright>&amp;copy;2018 Fabian Benitez-Quiroz</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/not-science/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://cbenitez81.github.io/tags/not-science/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Other things</title>

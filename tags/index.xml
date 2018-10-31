@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Academic</title>
     <link>https://cbenitez81.github.io/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Fabian Benitez-Quiroz</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;2018 Fabian Benitez-Quiroz</copyright>
+    
+	<atom:link href="https://cbenitez81.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
+      <title>academic</title>
       <link>https://cbenitez81.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Oct 2018 11:00:00 +0000</pubDate>
       
       <guid>https://cbenitez81.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Cognitive Science</title>
+      <title>cognitive-science</title>
       <link>https://cbenitez81.github.io/tags/cognitive-science/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
+      <title>deep-learning</title>
       <link>https://cbenitez81.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -39,16 +39,16 @@
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>https://cbenitez81.github.io/tags/hugo/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Oct 2018 11:00:00 +0000</pubDate>
       
       <guid>https://cbenitez81.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Not Science</title>
+      <title>not-science</title>
       <link>https://cbenitez81.github.io/tags/not-science/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
